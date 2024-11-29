@@ -3,7 +3,8 @@ this project shows With the functionality to choose exercise categories and spec
 this project uses Advanced React Best Practices such as file structure and hooks
 this project uses Creating a Beautiful User Interface using the Material UI (version 5)
 this project uses Fetching data from sources using RapidAPI.
-![Uploading Untitled design.png…]()
+![Untitled design](https://github.com/user-attachments/assets/99d95c95-90e6-4f4d-8697-a51da9255298)
+
 
 
 
